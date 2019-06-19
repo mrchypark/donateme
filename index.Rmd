@@ -1,9 +1,6 @@
 ---
 output:
   html_document:
-    theme: united
-    highlight: tango
-    css: styles.css
     includes:
       in_header: google.html
 ---
@@ -12,5 +9,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### 카카오뱅크 3333-06-2994064 박찬엽
+## kakaopay
+
+![](https://user-images.githubusercontent.com/6179259/59764463-ca86cf80-92d6-11e9-8037-847fbb61cc0b.png)
 
